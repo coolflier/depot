@@ -11,3 +11,15 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+three:
+  title: Anuranand
+  description: AnuragAnand1
+  image_url: 'abcd.gif'
+  price: 8.99
+
+four:
+  title: ShwetaSinha
+  description: ShwetaSinha1
+  image_url: 'shwets.gif'
+  price: 8.99
