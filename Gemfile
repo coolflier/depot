@@ -45,3 +45,5 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# For continous testing during development
+# gem 'autotest', '~> 4.4.6' 
